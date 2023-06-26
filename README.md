@@ -1,6 +1,6 @@
-# cphase-tutorial
+# ehtim-tutorial
 
-List of files in this repository:
+Tutorial for closure phase problem. List of files in this repository:
 - `create_fits_images.ipynb`: a Jupyter notebook for creating `.fits`
   files/`ehtim` images from image data
 - `generating_measurements.ipynb`: a Jupyter notebook for reading in `.fits`
