@@ -1,4 +1,4 @@
-#cphase-tutorial
+# cphase-tutorial
 
 List of files in this repository:
 - `create_fits_images.ipynb`: a Jupyter notebook for creating `.fits`
