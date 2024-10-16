@@ -15,7 +15,7 @@ Tutorial for closure phase problem. List of files in this repository:
 
 # Important Note
 
-Please make sure to cite the following papers and include the following acknowledgement: 
+If you use the data provided in the `data` directory, please make sure to cite the following papers and include the following acknowledgement: 
 
 > Oliver Porth, Koushik Chatterjee, Ramesh Narayan, Charles F Gammie, Yosuke Mizuno, Peter Anninos, John G Baker, Matteo Bugli, Chi-kwan Chan, Jordy Davelaar, et al., “The event horizon general relativistic magnetohydrodynamic code comparison project,” The Astrophysical Journal Supplement Series, vol. 243, no. 2, pp. 26, 2019.?
 
